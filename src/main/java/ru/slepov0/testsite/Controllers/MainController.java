@@ -1,2 +1,4 @@
-package ru.slepov0.testsite.Controllers;public class MainController {
+package ru.slepov0.testsite.Controllers;
+
+public class MainController {
 }
